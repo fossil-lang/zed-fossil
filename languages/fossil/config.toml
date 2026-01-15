@@ -1,0 +1,4 @@
+name = "Fossil"
+grammar = "fossil"
+path_suffixes = ["fossil"]
+line_comments = ["// "]
