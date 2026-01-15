@@ -12,4 +12,4 @@ languages = ["Fossil"]
 
 [grammars.fossil]
 repository = "https://github.com/fossil-lang/tree-sitter-fossil"
-commit = "d603658e249932559d167ef5d34339d20931ebf6"
+rev = "d603658e249932559d167ef5d34339d20931ebf6"
