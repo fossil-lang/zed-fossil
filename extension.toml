@@ -6,9 +6,12 @@ schema_version = 1
 authors = ["Ángel Iglesias Préstamo <angel.iglesias.prestamo@gmail.com>"]
 repository = "https://github.com/fossil-lang/zed-fossil"
 
+[languages.fossil]
+path = "languages/fossil"
+
 [language_servers.fossil-lsp]
 name = "Fossil Language Server"
-language = "fossil"
+languages = ["Fossil"]
 
 [grammars.fossil]
 repository = "https://github.com/fossil-lang/tree-sitter-fossil"
