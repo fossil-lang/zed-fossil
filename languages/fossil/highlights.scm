@@ -8,7 +8,7 @@
 ["true" "false"] @boolean
 
 ; Operators
-["|>" "->" "=" ":" "::" "." "#" ":>"] @operator
+["|>" "->" "=" ":" "::" "." "#"] @operator
 
 ; Delimiters
 ["(" ")" "{" "}" "[" "]" "<" ">"] @punctuation.bracket
